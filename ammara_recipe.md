@@ -29,4 +29,6 @@ Onions: You can either thinly slice them (more traditional) or finely chop. If u
 - Yogurt: Not only does a yogurt marinade make the chicken more tender and flavorful, but it also makes cooking the biryani much smoother. For a dairy-free option, try using coconut milk.
 - Rice: I suggest using aged, long-grain basmati rice you can find at some grocery stores, any Indian/*Pakistani* specialty store, or online.
 - Dried Plums (Alu Bukhara): I always cherish the helping of biryani with these sweet surprises. Alu Bukhara are often used in biryani to give a sweet, tangy taste. They’re usually available at *South Asian* grocery stores, but if you can’t find them, you can either substitute with dried prunes or omit.
+
+
 ![](https://pakistanichefs.com/wp-content/uploads/2022/02/thumb__700_0_0_0_auto.jpg)
