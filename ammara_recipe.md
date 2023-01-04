@@ -1,5 +1,5 @@
 # [Briyani](https://www.teaforturmeric.com/chicken-biryani/)
-### Recipe ###
+### Recipe ### Faviourt
 
 1. 1/4 cup neutral oil, plus more as needed
 2. 2 tbsp ghee, or sub butter
