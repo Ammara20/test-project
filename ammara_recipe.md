@@ -1,20 +1,20 @@
 # [Briyani](https://www.teaforturmeric.com/chicken-biryani/)
 ### Recipe ### Faviourt
 
-1. 1/4 cup neutral oil, plus more as needed
-2. 2 tbsp ghee, or sub butter
-3. 2 (~400 g) medium yellow onions, thinly sliced or finely chopped
-4. 6-8 (1 tbsp heaped) garlic cloves , crushed
-5. 1- inch (1 tbsp heaped) ginger, crushed
-6. 1 (75-80 g) small tomato, finely chopped
-7. 1-2 small green chili peppers (such as Thai or Serrano), chopped
+1.      1/4 cup neutral oil, plus more as needed
+2.      2 tbsp ghee, or sub butter
+3.      2 (~400 g) medium yellow onions, thinly sliced or finely chopped
+4.      6-8 (1 tbsp heaped) garlic cloves , crushed
+5.      1- inch (1 tbsp heaped) ginger, crushed
+6.      1 (75-80 g) small tomato, finely chopped
+7.      1-2 small green chili peppers (such as Thai or Serrano), chopped
 
-8. 5 dried plums , (alu bukhara)
-9. 1/3 – 1/2 tsp kosher salt
-10. 1 tsp garam masala, may omit if using store-bought biryani masala
-11. 1/2 tsp red chili flakes, optional
-12. 1 tsp kewra essence, depending on strength
-13. 1 tsp lemon juice
+8.      5 dried plums , (alu bukhara)
+9.      1/3 – 1/2 tsp kosher salt
+10.     1 tsp garam masala, may omit if using store-bought biryani masala
+11.     1/2 tsp red chili flakes, optional
+12.     1 tsp kewra essence, depending on strength
+13.     1 tsp lemon juice
 
 ![](https://www.teaforturmeric.com/wp-content/uploads/2020/11/Chicken-Biryani-16.jpg)
 
