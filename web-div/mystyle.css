@@ -1,0 +1,53 @@
+body {
+    background-color: aquamarine;
+}
+h2{
+    color: brown;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 300%;
+}
+h1{
+    color: rebeccapurple;
+    margin-left: 20px;
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p{
+    border: 15px solid;
+    padding: 30px;
+    margin: 40px;
+    color: red;
+    font-size: 160%;
+}
+.flex-container{
+    display: flex;
+    border: 1px solid greenyellow;
+  border-radius: 7px;
+}
+.flex-item{
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 100px;
+    font-size: 30px;
+    color: beige;
+}
+.box-1{
+    background-color: blueviolet;
+
+}
+.box-2{
+    background-color: rgb(182, 19, 27);
+}
+.box-3{
+    background-color: palevioletred;
+}
+.box-4{
+    background-color: yellow;
+}
+.box-5{
+    background-color: springgreen;
+}
