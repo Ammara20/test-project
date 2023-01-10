@@ -1,7 +1,108 @@
-body{
-    background-color: blueviolet;
+*{
+    margin:0;
+    padding:0;
+    font-family: monospace;
+    box-sizing: border-box
+
 }
-h1{
-    color: brown;font-size: medium;
+body{
+    background: #080808;
+    color: #fff;
+}
+#header{
+    width: 100px;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    padding: 10px 10%;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+nav ul li{
+    display:inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+nav ul li a{
+    color: #fff;
+    font-size: 10px;
+    position: relative;
+    transition: 0.5s; 
+}
+.header-text{
+    margin-top: 20%;
+    font-size: 30px;
+}
+.header-text h1{
+    margin-top: 20px;
+    font-size: 60px;
+}
+#about{
+    padding: 80px 0;;
+    color: #ababab;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.about-col-1{
+    flex-basis: 35%;
+}
+.about-col-1 img{
+    width: 100%;
+    border-radius: 15px;
+}
+.about-col-2{
+    flex-basis: 60%;
+}
+.title{
+    font-size: 60px;
+    font-weight: 600;
+    color: #fff;
+}
+.tab{
+    display: flex;
+    margin: 20px 0 40px;
+
+}
+.tab-link{
+    margin-right: 50px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    position: relative;
+}
+.tab-conten{
+    display: none;
+
+}
+.tab-conten.active-tab{
+    display: block;
+
+}
+
+.tab-conten.active-tab2{
+    display: block;
+}
+.tab-conten.active-tab3{
+    display: block;
+}
+h2{
+    font-size: larger;
+    color: brown;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+.contact-me{
+    color: whitesmoke;
+    text-align: center;
+    margin-right: 50px;
 }
